@@ -1,0 +1,150 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/Users/LO40168158/Documents/StudentForm_GTest _2/build/student_gtests_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/LO40168158/Documents/StudentForm_GTest _2/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/LO40168158/Documents/StudentForm_GTest _2/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/LO40168158/Documents/StudentForm_GTest _2",
+	"CMAKE_EXECUTABLE" : "C:/mingw64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/LO40168158/Documents/StudentForm_GTest _2/CMakeLists.txt",
+		"C:/Users/LO40168158/Documents/StudentForm_GTest _2/build/CMakeFiles/3.30.4/CMakeSystem.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake",
+		"C:/Users/LO40168158/Documents/StudentForm_GTest _2/build/CMakeFiles/3.30.4/CMakeCCompiler.cmake",
+		"C:/Users/LO40168158/Documents/StudentForm_GTest _2/build/CMakeFiles/3.30.4/CMakeCXXCompiler.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/Platform/Windows.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/CMakeCInformation.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/Compiler/GNU-C.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/Compiler/GNU.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU-C.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake",
+		"C:/Users/LO40168158/Documents/StudentForm_GTest _2/build/CMakeFiles/3.30.4/CMakeRCCompiler.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/CMakeRCInformation.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU-C-ABI.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/Compiler/GNU.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"C:/mingw64/share/cmake-3.30/Modules/CMakeParseArguments.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/LO40168158/Documents/StudentForm_GTest _2",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/LO40168158/Documents/StudentForm_GTest _2/studentmodel.h",
+			"Mu",
+			"EWIEGA46WW/moc_studentmodel.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/LO40168158/Documents/StudentForm_GTest _2/build/student_gtests_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/LO40168158/Documents/StudentForm_GTest _2/build/student_gtests_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/LO40168158/Documents/StudentForm_GTest _2",
+		"C:/Users/LO40168158/Documents/StudentForm_GTest _2/googletest/googletest/include",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtCore",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/mkspecs/win32-g++",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtGui",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtANGLE",
+		"C:/Users/LO40168158/Documents/StudentForm_GTest _2/googletest/googletest",
+		"C:/mingw64/include/c++/14.2.0",
+		"C:/mingw64/include/c++/14.2.0/x86_64-w64-mingw32",
+		"C:/mingw64/include/c++/14.2.0/backward",
+		"C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include",
+		"C:/mingw64/include",
+		"C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed",
+		"C:/mingw64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/mingw64/bin/g++.exe",
+		"-std=gnu++11",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/mingw64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/Users/LO40168158/Documents/StudentForm_GTest _2/build/student_gtests_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 10,
+	"PARSE_CACHE_FILE" : "C:/Users/LO40168158/Documents/StudentForm_GTest _2/build/CMakeFiles/student_gtests_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/Qt5.14.2/5.14.2/mingw73_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 14,
+	"SETTINGS_FILE" : "C:/Users/LO40168158/Documents/StudentForm_GTest _2/build/CMakeFiles/student_gtests_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/LO40168158/Documents/StudentForm_GTest _2/studentmodel.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/LO40168158/Documents/StudentForm_GTest _2/studentmodel_test.cpp",
+			"Mu",
+			null
+		]
+	],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

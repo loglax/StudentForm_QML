@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PersonalProfile.qml</file>
+        <file>AcademicDetails.qml</file>
+        <file>GuardianInformation.qml</file>
+        <file>CustomComboBox.qml</file>
+    </qresource>
+</RCC>

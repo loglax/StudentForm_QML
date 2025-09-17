@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/LO40168158/Documents/StudentForm_GTest _2/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB @CMakeFiles/student_gtests.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\student_gtests.dir\\student_gtests_autogen\\mocs_compilation.cpp.obj -c \"C:\\Users\\LO40168158\\Documents\\StudentForm_GTest _2\\build\\student_gtests_autogen\\mocs_compilation.cpp\"",
+  "file": "C:/Users/LO40168158/Documents/StudentForm_GTest _2/build/student_gtests_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/student_gtests.dir/student_gtests_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/LO40168158/Documents/StudentForm_GTest _2/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB @CMakeFiles/student_gtests.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\student_gtests.dir\\studentmodel_test.cpp.obj -c \"C:\\Users\\LO40168158\\Documents\\StudentForm_GTest _2\\studentmodel_test.cpp\"",
+  "file": "C:/Users/LO40168158/Documents/StudentForm_GTest _2/studentmodel_test.cpp",
+  "output": "CMakeFiles/student_gtests.dir/studentmodel_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/LO40168158/Documents/StudentForm_GTest _2/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB @CMakeFiles/student_gtests.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\student_gtests.dir\\studentmodel.cpp.obj -c \"C:\\Users\\LO40168158\\Documents\\StudentForm_GTest _2\\studentmodel.cpp\"",
+  "file": "C:/Users/LO40168158/Documents/StudentForm_GTest _2/studentmodel.cpp",
+  "output": "CMakeFiles/student_gtests.dir/studentmodel.cpp.obj"
+},
+{
+  "directory": "C:/Users/LO40168158/Documents/StudentForm_GTest _2/build/googletest/googlemock",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c \"C:\\Users\\LO40168158\\Documents\\StudentForm_GTest _2\\googletest\\googlemock\\src\\gmock-all.cc\"",
+  "file": "C:/Users/LO40168158/Documents/StudentForm_GTest _2/googletest/googlemock/src/gmock-all.cc",
+  "output": "googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+},
+{
+  "directory": "C:/Users/LO40168158/Documents/StudentForm_GTest _2/build/googletest/googlemock",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c \"C:\\Users\\LO40168158\\Documents\\StudentForm_GTest _2\\googletest\\googlemock\\src\\gmock_main.cc\"",
+  "file": "C:/Users/LO40168158/Documents/StudentForm_GTest _2/googletest/googlemock/src/gmock_main.cc",
+  "output": "googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "C:/Users/LO40168158/Documents/StudentForm_GTest _2/build/googletest/googletest",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"C:\\Users\\LO40168158\\Documents\\StudentForm_GTest _2\\googletest\\googletest\\src\\gtest-all.cc\"",
+  "file": "C:/Users/LO40168158/Documents/StudentForm_GTest _2/googletest/googletest/src/gtest-all.cc",
+  "output": "googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "C:/Users/LO40168158/Documents/StudentForm_GTest _2/build/googletest/googletest",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"C:\\Users\\LO40168158\\Documents\\StudentForm_GTest _2\\googletest\\googletest\\src\\gtest_main.cc\"",
+  "file": "C:/Users/LO40168158/Documents/StudentForm_GTest _2/googletest/googletest/src/gtest_main.cc",
+  "output": "googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+}
+]
