@@ -76,7 +76,8 @@ TEST(StudentModelTest, SaveToTextFile_ValidData) {
  
     bool saved = model.saveToTextFile(
         "S104","A004","Karthick","R102","2023-08-24","Male","Hindu","Indian","Father Name",
-        "Mother Name","Test Address","BSc","CS","5","A","10th,12th",1234567890,"email@test.com","", 
+        "Mother Name","Test Address","BSc","CS","5","A","10th,12th",1234567890,"email@test.com",
+        "file:///C:/Users/LO40168158/Pictures/Screenshots/Screenshot 2025-04-16 164037.png", 
         "Guardian Name",9876543210,"Guardian Address",
         {"SSLC","HSC","BSc", "MSc"},
         {"2018", "2020","2023","2025"},
