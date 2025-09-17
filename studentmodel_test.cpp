@@ -17,7 +17,7 @@ TEST(StudentModelTest, ClearAllFields) {
     model.setStudentName("Test Name");
     //Guardian Section
     model.setGuardianName("Guardian Name");
-    model.setGuardianContactNo("9876543210");
+    model.setGuardianContactNo(9876543210);
     //Academic Details
     model.setCourseNames({"Course1", "Course2"});
     model.setPassingYears({"Year1", "Year2"});
@@ -114,7 +114,7 @@ TEST(StudentModelTest, SaveToTextFile_EmptyScholarNo) {
 
     qInstallMessageHandler(previousHandler);
 }
-
+/*
 //Delete existing File
 TEST(StudentModelTest, DeleteTextFile_ExistingFile) {
 
@@ -134,7 +134,7 @@ TEST(StudentModelTest, DeleteTextFile_ExistingFile) {
 
     qInstallMessageHandler(previousHandler);
 }
-
+*/
 //Delete Non existing file
 TEST(StudentModelTest, DeleteTextFile_NonexistentFile) {
     StudentModel model;

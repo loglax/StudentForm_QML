@@ -68,8 +68,8 @@ public:
     void setDocuments(const QString &val){
         m_cachedDocuments = val;
     }
-    void setContactNo(const QString &val){
-        m_cachedContactNo = val.toLongLong();
+    void setContactNo(const qlonglong val){
+        m_cachedContactNo = val;
     }
     void setEmailId(const QString &val){
         m_cachedEmailId = val;
@@ -80,8 +80,8 @@ public:
     void setGuardianName(const QString &val){
         m_cachedGuardianName = val;
     }
-    void setGuardianContactNo(const QString &val){
-        m_cachedGuardianContactNo = val.toLongLong();
+    void setGuardianContactNo(const qlonglong val){
+        m_cachedGuardianContactNo = val;
     }
     void setGuardianAddress(const QString &val){
         m_cachedGuardianAddress = val;
